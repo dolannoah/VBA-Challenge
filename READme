@@ -1,0 +1,17 @@
+This VBA script analyzes stock data by calculating:
+- Ticker symbols
+
+- Quarterly change
+
+- Percentage change
+
+- Total stock volume
+
+- Greatest % increase, % decrease, and total volume
+
+- It also applies conditional formatting to highlight positive changes in green and negative changes in red
+
+Resources Used: 
+- Microsoft VBA Documentation
+- Excel Easy VBA Guide
+- Stack Overflow
